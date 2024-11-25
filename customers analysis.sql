@@ -41,6 +41,8 @@ GROUP BY
 ORDER BY 
     customer_count DESC
     
-
+select Continent, Country, count(CustomerKey) 
+from customers 
+group by Continent, Country;
 
 
