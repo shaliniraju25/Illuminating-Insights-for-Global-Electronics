@@ -94,18 +94,20 @@ Category Analysis: Analyzed sales performance across various product categories.
 
 # 1.Profit Margin by Top Products:
 From the Donut chat that has been shown for the top 10 products ti has been understood that the 10 tier products are not non uniformly distributed, they are properly distributed suggesting good signs.
-![image](https://github.com/user-attachments/assets/e890685c-c42b-450e-a72f-7a0db32b6252)
-![image](https://github.com/user-attachments/assets/f96b8632-e4e0-4a40-9a81-3432df891e1f)
+![image](https://github.com/user-attachments/assets/70e80b93-198f-428d-83a4-d8cb6208c3f2)
+
 
 # 2.Least 10 Frequency Products:
 We can see that the larger proportion of the least 10 products are from home appliances, camera segment.
 Making the competitor analysis will help us understand the gaps in our current products.
-![image](https://github.com/user-attachments/assets/d9ec05d7-8f94-44b3-b172-cdc36910e14b)
+![image](https://github.com/user-attachments/assets/f2ad2854-af0d-4062-9848-298d723beee6)
+
 
 # 3.Top 10 Frequency Products:
 The top selling products are from the Desktop and computer segment.
 It’s recommended to maintain sufficient inventory to meet the customer demand
-![image](https://github.com/user-attachments/assets/35800907-e9de-474e-8cfb-730e5454c10a)
+![image](https://github.com/user-attachments/assets/65976a47-406b-4323-9790-8458ea189f8c)
+
 
 
 # Store Analysis
@@ -116,16 +118,19 @@ Geographical Analysis: Analyzed regional sales performance to pinpoint high-perf
 After seeing the total revenue, it has been understood that the sales from north American stores are the highest.
 There are very less number of stores in Australia which can cost us the opportunity.
 Spreading the company across the Australia can help the company grow its sales well
-![image](https://github.com/user-attachments/assets/be07e17b-ec36-41f6-a71d-d31272529b3e)
+![image](https://github.com/user-attachments/assets/1de9575e-c9c9-478f-a5e4-ef4121858119)
+
 
 # 2.Store Size analysis:
 We can see that the stores with the area between 1750 to 2000 are contributing to morethan 50% of the entire sales.
 We can see the stores with the highest area are not the highest selling.
-![image](https://github.com/user-attachments/assets/133f0d2b-d501-4f8f-a57f-117424bded5d)
+![image](https://github.com/user-attachments/assets/b987d997-f1da-4607-9842-997b5f34dcec)
+
 
 # 3.Store Age analysis:
 If the age of the store is between 10-15 then they are contributing to the highest amount of sales.
-![image](https://github.com/user-attachments/assets/e3489ad1-8544-4b6c-a2dc-bb6b34e5e66d)
+![image](https://github.com/user-attachments/assets/d45c35dd-8da0-46a5-a4cf-efc22ca72d71)
+
 
 
 # Results
